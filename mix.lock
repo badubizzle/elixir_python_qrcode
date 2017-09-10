@@ -1,0 +1,2 @@
+%{"erlport": {:hex, :erlport, "0.9.8", "b7dc57eb87f215a671926bfbcd23e6e9c76f8653b0d072627b41431ef51c4d20", [], [], "hexpm"},
+  "qrcode": {:git, "https://github.com/komone/qrcode", "4f74760f38cf93f359564c337e2ceff63039cf87", []}}
